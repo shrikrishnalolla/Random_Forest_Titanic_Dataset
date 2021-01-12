@@ -6,4 +6,4 @@ Random Forest is a parallel ensembling method where several Decision trees are m
 
 ![Random Forest](https://miro.medium.com/max/500/1*VHDtVaDPNepRglIAv72BFg.jpeg)
 
-The model achieves a score of 0.7799 on kaggle.The language used was python.
+The main objective of this repository was to learn the Random forest algorithm rather than focus on accuracy. This is also my first kaggle submission! The model achieves a score of 0.7799 on kaggle.The language used was python.
